@@ -39,3 +39,5 @@ Update your local: git pull upstream master
 > I want the worth analysis to be a no brainer.
 
 3. 3c: Get a LAMP stack (MAMP/XAMPP/Vagrant) going on your local computers in preparation for Week 4.
+
+hello world
