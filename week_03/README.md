@@ -41,3 +41,5 @@ Update your local: git pull upstream master
 3. 3c: Get a LAMP stack (MAMP/XAMPP/Vagrant) going on your local computers in preparation for Week 4.
 
 hello world
+
+this only shows on master
