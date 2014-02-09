@@ -40,6 +40,19 @@ Update your local: git pull upstream master
 
 3. 3c: Get a LAMP stack (MAMP/XAMPP/Vagrant) going on your local computers in preparation for Week 4.
 
-hello world
-
-this is fuckit
+Questions:
+15 - What is your budget?
+14 - What is your timeline?
+13 - Will you do all of the web maintenance in-house?
+12 - What is your competition doing?  website, members, retention, 
+11 - Will you be keeping the overall look/feel of the site?
+10 - How much control do you want the user to have?
+09 - What type of filtering do you need the staff to watch for?  ie. negative photos or testimonials?
+08 - In the blog section do you want a content filter?
+07 - How are local businesses involved with you currently?
+06 - Who does your internet admin now? how many hours each week?
+05 - Which items in your list are priorities?
+04 - Your new services will require introduction and training for the staff and members.  Will you be doing this?
+03 - Are you happy with what your current website offers?
+02 - What are your clients currently happiest with?
+01 - What are your clients asking for?
